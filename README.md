@@ -1,6 +1,7 @@
 # YouTube-Landing-Page-Clone-Using-HTML-CSS
 This project consists of a YouTube main page created entirely from scratch using HTML and CSS. The main page replicates the familiar layout and design of the YouTube platform, showcasing the use of HTML for content structuring and CSS for styling. 
 While this project primarily serves as an practice exercise and showcases basic HTML and CSS usage, contributions are welcome.
+
 **Usage**
 To begin, clone the repository onto your local computer. Then, within Visual Studio Code, ensure you have the necessary extensions installed to support HTML and CSS development. Specifically, make sure you have the "Live Server" extension installed. 
 
